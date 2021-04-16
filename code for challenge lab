@@ -173,11 +173,11 @@ WHERE
 GROUP BY date
 
 
-After input the '10' query
+/* After input the '10' query
 Click "Explore Data" > "Explore with Data Studio"
 Authorize your BigQuery in Data Studio
 Save your Data Studio Explorer
 Get Started > Check "I acknowlegde..." > Accept > Yes to All > Done
-Check Your Progress
+Check Your Progress */
 
 ====================================== THE END ===========================================
